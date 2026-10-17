@@ -1,0 +1,111 @@
+ticket_id,message,category,urgency,assigned_team
+S001,The website is very slow,technical,Medium,Technical Support
+S002,I cannot update my account details,account,Low,Account Support
+S003,How can I update my profile details,account,Low,Account Support
+S004,I was charged the wrong price,payment,Medium,Billing Support
+S005,I have a general question about your service,general,Low,General Support
+S006,I cannot access my profile,account,Low,Account Support
+S007,The document upload feature is not working,technical,Medium,Technical Support
+S008,I cannot upload my document,technical,Medium,Technical Support
+S009,The software stops responding,technical,Medium,Technical Support
+S010,The account settings are not saving,account,Low,Account Support
+S011,What services do you offer,general,Low,General Support
+S012,The page keeps showing an error,technical,Medium,Technical Support
+S013,My payment failed during checkout,payment,Medium,Billing Support
+S014,I was charged twice for one order,payment,Medium,Billing Support
+S015,The screen remains blank,technical,Medium,Technical Support
+S016,File upload fails every time,technical,Medium,Technical Support
+S017,I get an error when uploading a file,technical,Medium,Technical Support
+S018,The website crashes when I click submit,technical,Medium,Technical Support
+S019,I am unable to upload a document,technical,Medium,Technical Support
+S020,I cannot download my invoice,payment,Medium,Billing Support
+S021,My transaction was declined,payment,Medium,Billing Support
+S022,The checkout page rejects my card,payment,Medium,Billing Support
+S023,What are your customer support hours,general,Low,General Support
+S024,I cannot generate a report,technical,Medium,Technical Support
+S025,The website displays a technical error,technical,Medium,Technical Support
+S026,The application keeps restarting,technical,Medium,Technical Support
+S027,My account was accessed without permission,account,Low,Account Support
+S028,I need to recover my account,account,Low,Account Support
+S029,Please help me update my username,account,Low,Account Support
+S030,Why was I charged an extra fee,payment,Medium,Billing Support
+S031,The website fails to load,technical,Medium,Technical Support
+S032,The amount on my bill is incorrect,payment,Medium,Billing Support
+S033,Someone logged into my account,account,Low,Account Support
+S034,The application freezes frequently,technical,Medium,Technical Support
+S035,My file upload gets stuck,technical,Medium,Technical Support
+S036,Please share information about your policies,general,Low,General Support
+S037,The download button does nothing,technical,Medium,Technical Support
+S038,Please help me change my password,account,Low,Account Support
+S039,I cannot complete the payment,payment,Medium,Billing Support
+S040,Please provide general product information,general,Low,General Support
+S041,The application crashes on startup,technical,Medium,Technical Support
+S042,How can I give a suggestion,general,Low,General Support
+S043,The refund amount is incorrect,payment,Medium,Billing Support
+S044,The application does not accept my document,technical,Medium,Technical Support
+S045,I need general information about your company,general,Low,General Support
+S046,Where can I find the frequently asked questions,general,Low,General Support
+S047,I cannot download a report,technical,Medium,Technical Support
+S048,My transaction is still pending,payment,Medium,Billing Support
+S049,I need help recovering my login,account,Low,Account Support
+S050,I need a copy of my invoice,payment,Medium,Billing Support
+S051,My subscription payment failed,payment,Medium,Billing Support
+S052,I cannot reset my password,account,Low,Account Support
+S053,The application is responding slowly,technical,Medium,Technical Support
+S054,I cannot sign in to my account,account,Low,Account Support
+S055,My account is temporarily disabled,account,Low,Account Support
+S056,My user account is locked,account,Low,Account Support
+S057,My card payment is not working,payment,Medium,Billing Support
+S058,I want to share feedback,general,Low,General Support
+S059,I was billed for a cancelled order,payment,Medium,Billing Support
+S060,Please help me correct my account information,account,Low,Account Support
+S061,The refund is taking too long,payment,Medium,Billing Support
+S062,My account verification failed,account,Low,Account Support
+S063,The payment was deducted but the order failed,payment,Medium,Billing Support
+S064,I need help understanding my bill,payment,Medium,Billing Support
+S065,My payment confirmation is missing,payment,Medium,Billing Support
+S066,I cannot verify my account,account,Low,Account Support
+S067,I need to update my billing details,payment,Medium,Billing Support
+S068,Where can I learn about your products,general,Low,General Support
+S069,Where can I find tutorials,general,Low,General Support
+S070,I cannot open the settings page,technical,Medium,Technical Support
+S071,How can I contact customer support,general,Low,General Support
+S072,My account details are missing,account,Low,Account Support
+S073,Please tell me about your services,general,Low,General Support
+S074,My bank transfer has not arrived,payment,Medium,Billing Support
+S075,I would like to provide feedback,general,Low,General Support
+S076,I am unable to log in,account,Low,Account Support
+S077,I want to change my personal information,account,Low,Account Support
+S078,Can you explain how your service works,general,Low,General Support
+S079,How do I submit a suggestion,general,Low,General Support
+S080,I get an error when uploading a file,technical,Medium,Technical Support
+S081,Where can I find contact information,general,Low,General Support
+S082,My wallet payment failed,payment,Medium,Billing Support
+S083,Where can I read the documentation,general,Low,General Support
+S084,The app shows a connection error,technical,Medium,Technical Support
+S085,I cannot change my registered phone number,account,Low,Account Support
+S086,The dashboard is not loading,technical,Medium,Technical Support
+S087,Do you have a product catalogue,general,Low,General Support
+S088,I cannot connect to the server,technical,Medium,Technical Support
+S089,The search feature does not work,technical,Medium,Technical Support
+S090,I cannot open my account dashboard,account,Low,Account Support
+S091,I have a problem with account verification,account,Low,Account Support
+S092,Can you explain your service plans,general,Low,General Support
+S093,I want to learn about available features,general,Low,General Support
+S094,How do I edit my registered details,account,Low,Account Support
+S095,I see an unknown charge on my bill,payment,Medium,Billing Support
+S096,The search results are incorrect,technical,Medium,Technical Support
+S097,My profile information is incorrect,account,Low,Account Support
+S098,The app closes unexpectedly,technical,Medium,Technical Support
+S099,How can I learn more about your company,general,Low,General Support
+S100,Where can I read the user guide,general,Low,General Support
+S101,I forgot my login credentials,account,Low,Account Support
+S102,Where can I find announcements,general,Low,General Support
+S103,I want to change my registered email,account,Low,Account Support
+S104,I need to update my personal details,account,Low,Account Support
+S105,I have not received my refund,payment,Medium,Billing Support
+S106,I want to request a refund,payment,Medium,Billing Support
+S107,Where can I find your help centre,general,Low,General Support
+S108,I need to change the name on my account,account,Low,Account Support
+S109,Please help me unlock my account,account,Low,Account Support
+S110,The page layout is broken,technical,Medium,Technical Support
